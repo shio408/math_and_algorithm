@@ -1,2 +1,2 @@
 # math_and_algorithm
-Algorithm Practice
+This is a repository for math and algorithm practice.
