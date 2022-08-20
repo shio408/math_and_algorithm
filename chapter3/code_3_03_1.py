@@ -1,0 +1,6 @@
+A = list(map(int, input().split()))
+cnt_100 = A.count(100)
+cnt_200 = A.count(200)
+cnt_300 = A.count(300)
+cnt_400 = A.count(400)
+print(cnt_100 * cnt_400 + cnt_200 * cnt_300)
